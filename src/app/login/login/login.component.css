@@ -1,0 +1,15 @@
+.container{
+    padding :20px;
+    margin: auto;
+    width: 65%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.formLogin{
+    padding :20px;
+
+}
+
+.cardContainer{
+    display: flex;
+}
